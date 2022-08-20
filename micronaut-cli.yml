@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.cools
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, cache-caffeine, data, data-jdbc, email-javamail, github-workflow-ci, github-workflow-docker-registry, gradle, graphql, http-client, jackson-databind, java, java-application, jdbc-hikari, junit, liquibase, log4j2, management, micrometer, micrometer-annotation, micrometer-prometheus, micronaut-build, mockito, mysql, netflix-archaius, netflix-hystrix, netty-server, openapi, readme, serialization-bson, serialization-jackson, shade, swagger-ui, test-resources, testcontainers, yaml]
